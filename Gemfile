@@ -71,3 +71,5 @@ gem 'bootstrap'
 gem 'rails_autolink'
 
 gem 'solargraph'
+
+gem 'ransack'
