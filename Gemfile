@@ -73,3 +73,5 @@ gem 'rails_autolink'
 gem 'solargraph'
 
 gem 'ransack'
+
+gem 'kaminari'
