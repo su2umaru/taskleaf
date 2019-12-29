@@ -75,3 +75,5 @@ gem 'solargraph'
 gem 'ransack'
 
 gem 'kaminari'
+
+gem 'sidekiq'
